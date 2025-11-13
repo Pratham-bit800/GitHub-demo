@@ -1,4 +1,4 @@
 # GitHub-demo
 ## Demo Git Repository
-Demo repository to learn git and github helloooo
-
+Demo repository to learn git and github
+hellooo
